@@ -7,6 +7,46 @@
     </url>
 
     <url>
+        <loc>http://www.huweihuang.com/article/VSCode-%E4%BD%BF%E7%94%A8/</loc>
+        <lastmod>2020-05-29T13:06:33.577Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/Ubuntu%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</loc>
+        <lastmod>2020-05-29T13:06:33.575Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/Reading%20Paper%20List/</loc>
+        <lastmod>2020-05-29T13:06:33.574Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/Linux%20%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</loc>
+        <lastmod>2020-05-29T13:06:33.573Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/Numpy/</loc>
+        <lastmod>2020-05-29T13:06:33.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://www.huweihuang.com/article/Python%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%BD%BF%E7%94%A8/</loc>
         <lastmod>2020-04-12T15:40:55.518Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,14 +65,6 @@
     <url>
         <loc>http://www.huweihuang.com/article/hexo-theme-huweihuang/</loc>
         <lastmod>2020-04-12T10:10:10.104Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.huweihuang.com/article/VSCode-%E4%BD%BF%E7%94%A8/</loc>
-        <lastmod>2020-04-12T10:10:10.089Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
