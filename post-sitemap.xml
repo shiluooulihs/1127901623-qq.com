@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://www.huweihuang.com/article/Numpy/</loc>
+        <lastmod>2020-05-29T13:11:51.318Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://www.huweihuang.com/article/VSCode-%E4%BD%BF%E7%94%A8/</loc>
         <lastmod>2020-05-29T13:06:33.577Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,14 +41,6 @@
     <url>
         <loc>http://www.huweihuang.com/article/Linux%20%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</loc>
         <lastmod>2020-05-29T13:06:33.573Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.huweihuang.com/article/Numpy/</loc>
-        <lastmod>2020-05-29T13:06:33.569Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

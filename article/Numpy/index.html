@@ -142,6 +142,13 @@
 
                         
                         <li>
+                            <a href="/archive/">Archives</a>
+                        </li>
+                        
+                    
+
+                        
+                        <li>
                             <a href="/about/">About</a>
                         </li>
                         
@@ -150,13 +157,6 @@
                         
                         <li>
                             <a href="/tags/">Tags</a>
-                        </li>
-                        
-                    
-
-                        
-                        <li>
-                            <a href="/archive/">Archives</a>
                         </li>
                         
                     
@@ -219,7 +219,8 @@
 <code>...</code> 在numpy中可以代替 <code>:</code>（第一个 <code>...</code> 可以代替任意多个 <code>:</code>，后面的每一个 <code>...</code> 一个只能代替一个 <code>:</code>）, 以保证推导的维度数目与变量本身维度一致</p>
 </blockquote>
 <h1 id="imageio-读取与保存图片">imageio 读取与保存图片</h1>
-
+<h1 id="多维数组bool索引">多维数组Bool索引</h1>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line">img = np.random.rand(<span class="number">512</span>,<span class="number">512</span>,<span class="number">3</span>)</span><br><span class="line">c = np.array([r,g,b])</span><br><span class="line">np.all(img==c,axis=<span class="number">-1</span>)</span><br></pre></td></tr></table></figure>
                 
 
                 <hr>
@@ -282,7 +283,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">Contents</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-1"><a class="toc-nav-link" href="#单通道逻辑数组变三通道"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">&#x5355;&#x901A;&#x9053;&#x903B;&#x8F91;&#x6570;&#x7EC4;&#xFF0C;&#x53D8;&#x4E09;&#x901A;&#x9053;</span></a></li><li class="toc-nav-item toc-nav-level-1"><a class="toc-nav-link" href="#imageio-读取与保存图片"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">imageio &#x8BFB;&#x53D6;&#x4E0E;&#x4FDD;&#x5B58;&#x56FE;&#x7247;</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-1"><a class="toc-nav-link" href="#单通道逻辑数组变三通道"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">&#x5355;&#x901A;&#x9053;&#x903B;&#x8F91;&#x6570;&#x7EC4;&#xFF0C;&#x53D8;&#x4E09;&#x901A;&#x9053;</span></a></li><li class="toc-nav-item toc-nav-level-1"><a class="toc-nav-link" href="#imageio-读取与保存图片"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">imageio &#x8BFB;&#x53D6;&#x4E0E;&#x4FDD;&#x5B58;&#x56FE;&#x7247;</span></a></li><li class="toc-nav-item toc-nav-level-1"><a class="toc-nav-link" href="#多维数组bool索引"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">&#x591A;&#x7EF4;&#x6570;&#x7EC4;Bool&#x7D22;&#x5F15;</span></a></li></ol>
         
         </div>
       </aside>
